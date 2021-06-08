@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/04 16:17:43.000.291,=D:\оаип 2 сем\Unit4.cpp</Transaction>
+    <Transaction>2021/06/04 16:17:43.000.226,=D:\оаип 2 сем\Project2PCH1.h</Transaction>
+    <Transaction>2021/06/04 16:17:50.000.891,D:\оаип 2 сем\Unit4.cpp=D:\оаип 2 сем\main.cpp</Transaction>
+    <Transaction>2021/06/04 16:17:50.000.891,D:\оаип 2 сем\Unit4.h=D:\оаип 2 сем\main.h</Transaction>
+    <Transaction>2021/06/04 16:17:50.000.891,D:\оаип 2 сем\Unit4.dfm=D:\оаип 2 сем\main.dfm</Transaction>
+    <Transaction>2021/06/04 16:18:01.000.347,=D:\оаип 2 сем\Unit4.cpp</Transaction>
+    <Transaction>2021/06/04 16:18:08.000.473,D:\оаип 2 сем\Unit4.cpp=D:\оаип 2 сем\ball.cpp</Transaction>
+    <Transaction>2021/06/04 16:18:08.000.473,D:\оаип 2 сем\Unit4.h=D:\оаип 2 сем\ball.h</Transaction>
+    <Transaction>2021/06/04 16:28:18.000.871,=D:\оаип 2 сем\Unit4.cpp</Transaction>
+    <Transaction>2021/06/04 16:28:30.000.468,D:\оаип 2 сем\Unit4.cpp=D:\оаип 2 сем\physics.cpp</Transaction>
+    <Transaction>2021/06/04 16:28:30.000.468,D:\оаип 2 сем\Unit4.h=D:\оаип 2 сем\physics.h</Transaction>
+    <Transaction>2021/06/04 16:31:57.000.554,D:\оаип 2 сем\main.h=D:\0lab\thethis\app\main.h</Transaction>
+    <Transaction>2021/06/04 16:31:57.000.554,D:\оаип 2 сем\main.dfm=D:\0lab\thethis\app\main.dfm</Transaction>
+    <Transaction>2021/06/04 16:31:57.000.554,D:\оаип 2 сем\main.cpp=D:\0lab\thethis\app\main.cpp</Transaction>
+    <Transaction>2021/06/04 16:31:58.000.762,D:\оаип 2 сем\physics.cpp=D:\0lab\thethis\app\physics.cpp</Transaction>
+    <Transaction>2021/06/04 16:31:58.000.762,D:\оаип 2 сем\physics.h=D:\0lab\thethis\app\physics.h</Transaction>
+    <Transaction>2021/06/04 16:31:59.000.810,D:\оаип 2 сем\ball.h=D:\0lab\thethis\app\ball.h</Transaction>
+    <Transaction>2021/06/04 16:31:59.000.810,D:\оаип 2 сем\ball.cpp=D:\0lab\thethis\app\ball.cpp</Transaction>
+    <Transaction>2021/06/04 16:32:01.000.980,D:\оаип 2 сем\Project2PCH1.h=D:\0lab\thethis\app\Project2PCH1.h</Transaction>
+    <Transaction>2021/06/04 16:32:07.000.441,D:\оаип 2 сем\Project2.cbproj=D:\0lab\thethis\app\Project2.cbproj</Transaction>
+    <Transaction>2021/06/05 21:06:31.000.792,=D:\0lab\thethis\app\Unit1.cpp</Transaction>
+    <Transaction>2021/06/05 21:07:25.000.062,D:\0lab\thethis\app\borders.cpp=D:\0lab\thethis\app\Unit1.cpp</Transaction>
+    <Transaction>2021/06/05 21:07:25.000.062,D:\0lab\thethis\app\borders.h=D:\0lab\thethis\app\Unit1.h</Transaction>
+    <Transaction>2021/06/06 05:46:08.000.752,=D:\0lab\thethis\app\Unit1.cpp</Transaction>
+    <Transaction>2021/06/06 05:46:53.000.017,D:\0lab\thethis\app\Unit1.h=D:\0lab\thethis\app\hole.h</Transaction>
+    <Transaction>2021/06/06 05:46:53.000.017,D:\0lab\thethis\app\Unit1.cpp=D:\0lab\thethis\app\hole.cpp</Transaction>
+    <Transaction>2021/06/08 00:42:50.474,D:\0lab\thethis\app\position.cpp=D:\0lab\thethis\app\physics.cpp</Transaction>
+    <Transaction>2021/06/08 00:42:50.474,D:\0lab\thethis\app\position.h=D:\0lab\thethis\app\physics.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ball.cpp"/>
+    <File Path="ball.cpp"/>
+    <File Path="ball.h"/>
+    <File Path="main.cpp"/>
+    <File Path="main.cpp"/>
+    <File Path="main.dfm"/>
+    <File Path="main.h"/>
+    <File Path="position.cpp"/>
+    <File Path="position.cpp"/>
+    <File Path="position.h"/>
+    <File Path="Project2.cpp"/>
+    <File Path="Project2PCH1.h"/>
+    <File Path="borders.cpp"/>
+    <File Path="borders.cpp"/>
+    <File Path="borders.h"/>
+    <File Path="hole.cpp"/>
+    <File Path="hole.cpp"/>
+    <File Path="hole.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
